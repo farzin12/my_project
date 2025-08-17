@@ -11,7 +11,7 @@ These projects include schematic design, PCB layout, and final board previews. A
 ![STM32 Data](https://raw.githubusercontent.com/farzin12/my_project/3d41711f00daf272bd8bf039698c410cf9ff06c0/STM32-Data.PNG)
 ![STM32](https://raw.githubusercontent.com/farzin12/my_project/88c67906e4e92920727c414a139c3bbcbee7862d/STM32.PNG)
 ![Power Supply](https://raw.githubusercontent.com/farzin12/my_project/4871f786b5df3e900bce90b80f9130363a790818/power%20supply.PNG)
-![Power](https://raw.githubusercontent.com/farzin12/my_project/blob/34e63624ca28604b324376acf8ed8957bc4f3b22/power.PNG)
+![Power](https://raw.github.com/farzin12/my_project/blob/34e63624ca28604b324376acf8ed8957bc4f3b22/power.PNG)
 
 
 ## Tools Used
