@@ -11,6 +11,7 @@ These projects include schematic design, PCB layout, and final board previews. A
 ![STM32 Data](https://raw.githubusercontent.com/farzin12/my_project/3d41711f00daf272bd8bf039698c410cf9ff06c0/STM32-Data.PNG)
 ![STM32](https://raw.githubusercontent.com/farzin12/my_project/88c67906e4e92920727c414a139c3bbcbee7862d/STM32.PNG)
 ![Power Supply](https://raw.githubusercontent.com/farzin12/my_project/4871f786b5df3e900bce90b80f9130363a790818/power%20supply.PNG)
+![.](https://raw.github.com/farzin12/my_project/blob/e56ff480ce5db545bbb39ba02c85cf00aa6c2c69/..PNG)
 
 ## Tools Used
 - Altium Designer
